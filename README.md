@@ -7,10 +7,10 @@ Ce projet consiste à créer une application Android qui utilise **GraphQL** pou
 
 
 ## demo GraphQL
-[Vedio demo Localisation](https://github.com/user-attachments/assets/2ab6bc39-2365-420d-addd-e8bc2087d6ad
+[Vedio demo ](https://github.com/user-attachments/assets/0e367884-3458-4272-8251-ca65e38e2157
 )
 ## demo APP android
-[Vedio demo Localisation](https://github.com/user-attachments/assets/2ab6bc39-2365-420d-addd-e8bc2087d6ad
+[Vedio demo ](https://github.com/user-attachments/assets/c67c6937-27be-437b-83fc-0cce85b25170
 )
 
 
